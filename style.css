@@ -1,0 +1,38 @@
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div,span,h1,p,section,h2{
+    width: 150px;
+    height: 150px;
+    margin:15px;
+    text-align: center;
+    line-height: 150px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: large;
+}
+.dv1,.dv2,.dv3,.dv4,.dv5,.dv6{
+    background-color: rgb(250, 7, 7);
+    color: white;
+}
+.dv2{
+    background-color:rgb(12, 12, 252);
+}
+.dv3{
+    background-color: rgb(5, 133, 5);
+}
+.dv4{
+    background-color: yellow;
+    color: rgb(5, 131, 131);
+}
+.dv5{
+    background-color:rgb(247, 166, 15) ;
+}
+.dv6{
+    background-color:#000;
+
+}
+
